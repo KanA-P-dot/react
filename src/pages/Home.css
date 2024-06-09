@@ -1,0 +1,24 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home-header {
+    margin-bottom: 20px;
+  }
+  
+  .weather-cards-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .home-footer {
+    margin-top: 20px;
+    font-size: 0.8em;
+  }
+  
